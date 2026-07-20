@@ -14,7 +14,7 @@ NeuralSutras is an AI education and media brand helping students, professionals,
 
 | Repo | Description |
 |------|-------------|
-| [neuralsutras-web](https://github.com/NeuralSutras/neuralsutras-web) | Website source — Next.js 14 |
+| [web](https://github.com/NeuralSutras/web) | Website source — Next.js 16 |
 | [prompt-library](https://github.com/NeuralSutras/prompt-library) | Free AI prompt library by role and task *(coming soon)* |
 
 ## Links
@@ -22,4 +22,4 @@ NeuralSutras is an AI education and media brand helping students, professionals,
 - YouTube: [@NeuralSutras](https://youtube.com/@NeuralSutras)
 - Newsletter: Subscribe at neuralsutras.com
 
-*An initiative by [Vedastra Labs](https://vedastra.app)*
+*An initiative by Vedastra Labs*
