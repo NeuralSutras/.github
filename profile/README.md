@@ -18,7 +18,7 @@ NeuralSutras is an AI education and media brand helping students, professionals,
 | [prompt-library](https://github.com/NeuralSutras/prompt-library) | Free AI prompt library by role and task *(coming soon)* |
 
 ## Links
-- Website: [neuralsutras.com](https://neuralsutras.com) *(coming soon)*
+- Website: [neuralsutras.com](https://neuralsutras.com)
 - YouTube: [@NeuralSutras](https://youtube.com/@NeuralSutras)
 - Newsletter: Subscribe at neuralsutras.com
 
